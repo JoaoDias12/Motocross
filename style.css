@@ -246,7 +246,7 @@ clip-path: polygon(20% 0%, 100% 0, 100% 75%, 75% 100%, 0 100%, 0% 20%);
   width: 33.33%;
   transition: all 0.5s ease-in-out;
 
-  background-image: url("/imgs/motocross2.jpg");
+  background-image: url("imgs/motocross2.jpg");
   background-repeat: no-repeat;
   background-size: 100rem 40rem;
 }
